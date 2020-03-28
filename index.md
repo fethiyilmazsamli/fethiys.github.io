@@ -1,3 +1,2 @@
-#Example Progress Journal
-
-[Here9]/covid.html is the simulation for covid pandemic
+Covid Code
+[Here]/covid.html is the simulation for covid pandemic
